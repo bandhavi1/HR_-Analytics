@@ -2,16 +2,19 @@
 
 ## Task 1: Project Understanding
 
-### Project Overview
+**Project Overview**
+
 Data Source: HR data containing over 22,000 rows from the years 2000 to 2020.
 
-### Data Cleaning & Analysis
+[Data](https://github.com/bandhavi1/HR_-Analytics/blob/main/Human%20Resources.csv)
+
+**Data Cleaning & Analysis**
 Tool: MySQL Workbench
 
-### Data Visualization
+**Data Visualization**
 Tool: PowerBI
 
-### Key Questions Addressed
+**Key Questions Addressed**
 
 Gender Breakdown: What is the gender breakdown of employees?
 Race/Ethnicity Breakdown: What is the race/ethnicity breakdown of employees?
@@ -28,17 +31,21 @@ Tenure Distribution by Department: What is the tenure distribution for each depa
 
 ## Task 2: Data Preparation
 
-### Data Cleaning: Steps taken to clean the data:
+**Data Cleaning: Steps taken to clean the data:**
 
+Standardized Date Formats: Converted all date fields to the YYYY-MM-DD format.
 Remove Negative Ages: Excluded 967 records with negative ages.
 Exclude Future Termination Dates: Excluded 1,599 records with termination dates far in the future; only current dates used.
-Resulting Clean Data Sets
-Cleaned Dataset
+Resulting Clean Data Sets.
+
 
 
 ## Task 3: Data Analysis
 
-### Summary of Findings
+**Summary of Findings**
+
+I have included the SQL file that contains the data cleaning and analysis steps. 
+[SQL](https://github.com/bandhavi1/HR_-Analytics/blob/main/Data%20Cleaning%20and%20Analysis.sql)
 
 Gender Breakdown: More male employees.
 Race/Ethnicity: Predominantly White, with Native Hawaiian and American Indian being the least represented.
@@ -53,6 +60,8 @@ Tenure Distribution: Average tenure is about 8 years; highest in Legal and Audit
 
 ## Task 4: Data Visualization
 
-### PowerBI Visualization
+**PowerBI Visualization**
+[Dashboard](https://github.com/bandhavi1/HR_-Analytics/blob/main/HR_Analytics.pbix)
+[PDF](https://github.com/bandhavi1/HR_-Analytics/blob/main/HR_Analytics.pdf)
 
 Developed a PowerBI Dashboard to provide stakeholders with enhanced understanding and deeper insights.
