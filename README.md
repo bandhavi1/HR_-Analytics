@@ -9,9 +9,11 @@ Data Source: HR data containing over 22,000 rows from the years 2000 to 2020.
 [Data](https://github.com/bandhavi1/HR_-Analytics/blob/main/Human%20Resources.csv)
 
 **Data Cleaning & Analysis**
+
 Tool: MySQL Workbench
 
 **Data Visualization**
+
 Tool: PowerBI
 
 **Key Questions Addressed**
@@ -45,6 +47,7 @@ Resulting Clean Data Sets.
 **Summary of Findings**
 
 I have included the SQL file that contains the data cleaning and analysis steps. 
+
 [SQL](https://github.com/bandhavi1/HR_-Analytics/blob/main/Data%20Cleaning%20and%20Analysis.sql)
 
 Gender Breakdown: More male employees.
@@ -61,7 +64,9 @@ Tenure Distribution: Average tenure is about 8 years; highest in Legal and Audit
 ## Task 4: Data Visualization
 
 **PowerBI Visualization**
+
 [Dashboard](https://github.com/bandhavi1/HR_-Analytics/blob/main/HR_Analytics.pbix)
+
 [PDF](https://github.com/bandhavi1/HR_-Analytics/blob/main/HR_Analytics.pdf)
 
 Developed a PowerBI Dashboard to provide stakeholders with enhanced understanding and deeper insights.
