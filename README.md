@@ -41,11 +41,11 @@ Data Source: HR data containing over 22,000 rows from the years 2000 to 2020.
 
 **Data Cleaning: Steps taken to clean the data:**
 
-Standardized Date Formats: Converted all date fields to the YYYY-MM-DD format.
+--Standardized Date Formats: Converted all date fields to the YYYY-MM-DD format.
 
-Remove Negative Ages: Excluded 967 records with negative ages.
+--Remove Negative Ages: Excluded 967 records with negative ages.
 
-Exclude Future Termination Dates: Excluded 1,599 records with termination dates far in the future; only current dates used.Resulting Clean Data Sets.
+--Exclude Future Termination Dates: Excluded 1,599 records with termination dates far in the future; only current dates used.Resulting Clean Data Sets.
 
 
 
