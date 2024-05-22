@@ -1,4 +1,5 @@
 # HR_Analytics
+![image](https://github.com/bandhavi1/HR_-Analytics/blob/main/dash.png)
 
 ## Task 1: Project Understanding
 
